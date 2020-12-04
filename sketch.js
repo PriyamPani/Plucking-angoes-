@@ -9,7 +9,7 @@ var tree, treeImg, stone, stoneImg, ground, boy, boyImg;
 
 
 function setup() {
-	createCanvas(3000, 700);
+	createCanvas(1800, 700);
 
 
 	engine = Engine.create();
